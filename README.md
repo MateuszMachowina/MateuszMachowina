@@ -48,7 +48,7 @@ Welcome! Here’s an overview of my repositories and projects.
 
 ---
 
-## 🔧 VBA & Office Automation
+## 🛠️ VBA & Office Automation
 <details>
   <summary><strong>📂 <a href="https://github.com/MateuszMachowina/vba-office-automation">View VBA & Office Automation Projects</a></strong></summary>
 
