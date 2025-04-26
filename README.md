@@ -1,6 +1,6 @@
 # 📚 My Project Portfolio
 
-Welcome! Here’s an overview of my repositories and projects.
+Welcome! Here’s a quick look at my repositories and projects, where I’ve applied various technologies to solve real-world challenges.
 
 ---
 
