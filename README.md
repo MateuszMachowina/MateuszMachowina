@@ -1,49 +1,27 @@
 # 📚 My Project Portfolio
 
-Welcome! Below is an overview of my projects, organized by technology.
+Welcome! Here’s an overview of my repositories and projects.
 
-## 🔧 VBA & Office Automation
-- [`vba-office-automation`](https://github.com/MateuszMachowina/vba-office-automation)  
-  Automating tasks and workflows in Excel and other Office tools using VBA and Office Scripts.
-
-## 📊 Power BI
-- [`power-bi`](https://github.com/MateuszMachowina/power-bi)  
-  Dashboards and reports built with Power BI, covering various business cases.
-
-## 📈 Tableau
-- [`tableau`](https://github.com/MateuszMachowina/tableau)  
-  Interactive visualizations and data storytelling with Tableau.
-
-## 🔄 Power Automate
-- [`power-automate`](https://github.com/MateuszMachowina/power-automate)  
-  Workflow automation and integration using Power Automate.
+---
 
 ## 🤖 UiPath
-- [`ui-path`](https://github.com/MateuszMachowina/ui-path)  
-  Robotic Process Automation (RPA) bots for business process automation using UiPath.
+<details>
+  <summary><strong><a href="https://github.com/MateuszMachowina/ui-path">uiA-path</a></strong></summary>
+
+- [Briefing Bot](https://github.com/MateuszMachowina/ui-path/tree/main/Briefing-Bot)
+- [Invoice OCR to Excel](https://github.com/MateuszMachowina/ui-path/tree/main/Invoice_OCR_to_Excel)
+
+</details>
+
+---
 
 ## 🐍 Python Apps
-- [`python-apps`](https://github.com/MateuszMachowina/python-apps)  
-  Scripts and applications in Python – data handling, automation, and productivity tools.
-
-## 🎓 Learning Resources
-- [`learning-computer-science-pl`](https://github.com/MateuszMachowina/learning-computer-science-pl)  
-  Notes and resources from my journey in computer science (in Polish).
-
-# 📚 My Project Portfolio
-
-Welcome! Below is an overview of my repositories and the projects inside.
-
-## 🔧 VBA & Office Automation
 <details>
-  <summary><strong><a href="https://github.com/MateuszMachowina/vba-office-automation">vba-office-automation</a></strong></summary>
+  <summary><strong><a href="https://github.com/MateuszMachowina/python-apps">python-apps</a></strong></summary>
 
-- `/email-automation`
-- `/excel-macros`
-- `/pdf-reports`
-- `/word-templating`
-  
-Each folder contains a self-contained automation use case.
+- [Excel Exchange Rates Converter](https://github.com/MateuszMachowina/python-apps/tree/main/Excel%20Exchange%20Rates%20Converter)
+- [FX Rates Checker](https://github.com/MateuszMachowina/python-apps/tree/main/FX%20Rates%20Checker)
+- [World of Tanks Stats Viewer](https://github.com/MateuszMachowina/python-apps/tree/main/World%20of%20Tanks%20Stats%20Viewer)
 
 </details>
 
@@ -53,11 +31,53 @@ Each folder contains a self-contained automation use case.
 <details>
   <summary><strong><a href="https://github.com/MateuszMachowina/power-bi">power-bi</a></strong></summary>
 
-- `/sales-dashboard`
-- `/finance-overview`
-- `/hr-analytics`
-- `/supply-chain-metrics`
+- [Steam Games Dashboard](https://github.com/MateuszMachowina/power-bi/tree/main/steam-games-dashboard)
 
-Each project includes PBIX files, datasets, and report screenshots.
+</details>
+
+---
+
+## 📈 Tableau
+<details>
+  <summary><strong><a href="https://github.com/MateuszMachowina/tableau">tableau</a></strong></summary>
+
+- [Global Weather & Cost of Living Dashboard](https://github.com/MateuszMachowina/tableau/tree/main/Global%20Weather%20%26%20Cost%20of%20Living%20Dashboard)
+- [Steam Games Peak CCU Dashboard](https://github.com/MateuszMachowina/tableau/tree/main/Steam%20Games%20Peak%20CCU%20Dashboard)
+
+</details>
+
+---
+
+## 🔧 VBA & Office Automation
+<details>
+  <summary><strong><a href="https://github.com/MateuszMachowina/vba-office-automation">vba-office-automation</a></strong></summary>
+
+- [Export SQL Queries from MS Access](https://github.com/MateuszMachowina/vba-office-automation/tree/main/export-sql-queries-from-ms-access)
+- [Sales Department Project](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
+
+</details>
+
+---
+
+## 🔄 Power Automate
+<details>
+  <summary><strong><a href="https://github.com/MateuszMachowina/power-automate">power-automate</a></strong></summary>
+
+- [Customer Overdue Payment Notifier](https://github.com/MateuszMachowina/power-automate/tree/main/Customer-Overdue-Payment-Notifier)
+- [Email Attachment Processor & ZIP Extractor](https://github.com/MateuszMachowina/power-automate/tree/main/Email-Attachment-Processor-%26-ZIP-Extractor)
+
+</details>
+
+---
+
+## 🎓 Learning Resources (in Polish)
+<details>
+  <summary><strong><a href="https://github.com/MateuszMachowina/learning-computer-science-pl">learning-computer-science-pl</a></strong></summary>
+
+- [Algorytmy Python](https://github.com/MateuszMachowina/learning-computer-science-pl/tree/main/algorytmy-python)
+- [Python](https://github.com/MateuszMachowina/learning-computer-science-pl/tree/main/python)
+- [SQL](https://github.com/MateuszMachowina/learning-computer-science-pl/tree/main/sql)
+- [Excel](https://github.com/MateuszMachowina/learning-computer-science-pl/tree/main/excel)
+- [Arkusze maturalne](https://github.com/MateuszMachowina/learning-computer-science-pl/tree/main/arkusze-maturalne)
 
 </details>
