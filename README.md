@@ -83,3 +83,13 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 </details>
 
 ---
+
+## 📊 HTML/JavaScript/CSS
+<details>
+  <summary><strong>📂 View HTML/JavaScript/CSS Projects</strong></summary>
+
+- 📑 [GoalTrckr](https://github.com/MateuszMachowina/GoalTrackr)
+
+</details>
+
+---
