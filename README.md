@@ -89,6 +89,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
   <summary><strong>📂 View HTML/JavaScript/CSS Projects</strong></summary>
 
 - 📑 [GoalTrckr](https://github.com/MateuszMachowina/GoalTrackr)
+- 📑 [Adam Machowina ICC Coaching](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 
 </details>
 
