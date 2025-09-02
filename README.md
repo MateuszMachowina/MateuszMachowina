@@ -6,7 +6,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 ## ✨ Featured
 <details>
-  <summary><strong>📂 <a href="https://github.com/MateuszMachowina/ui-path">View Featured Projectss</a></strong></summary>
+  <summary><strong>📂 View Featured Projects</strong></summary>
 
 - 📑 [FIFA 15 Pack Opener](https://github.com/MateuszMachowina/PackOpenerF15)
 - 📑 [Adam Machowina ICC Coaching](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
