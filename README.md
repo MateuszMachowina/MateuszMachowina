@@ -8,8 +8,8 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 <details>
   <summary><strong>📂 View Featured Projects</strong></summary>
 
-- 📑 [FIFA 15 Pack Opener (Online)](https://github.com/MateuszMachowina/PackOpenerF15)
-- 📑 [Personal Website for ICC Coach](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
+- 📑 [FIFA 15 Pack Opener (Live)](https://github.com/MateuszMachowina/PackOpenerF15)
+- 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [World of Tanks Stats Viewer (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/World%20of%20Tanks%20Stats%20Viewer)
 - 📑 [The Great Sales Department Project - VBA, Power Automate, UiPath, Python](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
 - 📑 [Tableau Dashboards](https://github.com/MateuszMachowina/tableau/tree/main)
@@ -104,7 +104,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
   <summary><strong>📂 View HTML/JavaScript/CSS Projects</strong></summary>
   
 - 📑 [FIFA 15 Pack Opener](https://github.com/MateuszMachowina/PackOpenerF15)
-- 📑 [Adam Machowina ICC Coaching](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
+- 📑 [Personal Website for ICC Coach](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [GoalTrckr](https://github.com/MateuszMachowina/GoalTrackr)
   
 </details>
