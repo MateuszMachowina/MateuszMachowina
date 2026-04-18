@@ -9,8 +9,8 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
   <summary><strong>📂 View Featured Projects</strong></summary>
 
 - 📑 [FIFA 15 Pack Opener (Live)](https://github.com/MateuszMachowina/PackOpenerF15)
-- 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
+- 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [The Great Sales Department Project - VBA, Power Automate, UiPath, Python](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
 - 📑 [Tableau Dashboards](https://github.com/MateuszMachowina/tableau/tree/main)
   
@@ -35,7 +35,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 - 📑 [Excel Exchange Rates Converter](https://github.com/MateuszMachowina/python-apps/tree/main/Excel%20Exchange%20Rates%20Converter)
 - 📑 [FX Rates Checker](https://github.com/MateuszMachowina/python-apps/tree/main/FX%20Rates%20Checker)
-- 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
+- 📑 [World of Tanks Assistant Pro](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
 - 📑 [World of Tanks Stats Viewer](https://github.com/MateuszMachowina/python-apps/tree/main/World%20of%20Tanks%20Stats%20Viewer)
 - 📑 [3 Python Scripts for PackOpenerF15](https://github.com/MateuszMachowina/python-apps/tree/main/Tools%20for%20PackOpenerF15)
   
