@@ -35,6 +35,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 - 📑 [Excel Exchange Rates Converter](https://github.com/MateuszMachowina/python-apps/tree/main/Excel%20Exchange%20Rates%20Converter)
 - 📑 [FX Rates Checker](https://github.com/MateuszMachowina/python-apps/tree/main/FX%20Rates%20Checker)
+- 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
 - 📑 [World of Tanks Stats Viewer](https://github.com/MateuszMachowina/python-apps/tree/main/World%20of%20Tanks%20Stats%20Viewer)
 - 📑 [3 Python Scripts for PackOpenerF15](https://github.com/MateuszMachowina/python-apps/tree/main/Tools%20for%20PackOpenerF15)
   
