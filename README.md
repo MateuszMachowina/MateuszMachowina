@@ -19,17 +19,6 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 ---
 
-## 🤖 UiPath
-<details>
-  <summary><strong>📂 <a href="https://github.com/MateuszMachowina/ui-path">View UiPath Projects</a></strong></summary>
-
-- 📑 [Briefing Bot](https://github.com/MateuszMachowina/ui-path/tree/main/Briefing-Bot)
-- 📑 [Invoice OCR to Excel](https://github.com/MateuszMachowina/ui-path/tree/main/Invoice_OCR_to_Excel)
-
-</details>
-
----
-
 ## 🐍 Python Apps
 <details>
   <summary><strong>📂 <a href="https://github.com/MateuszMachowina/python-apps">View Python Apps</a></strong></summary>
@@ -42,6 +31,17 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 - 📑 [World of Tanks Stats Viewer](https://github.com/MateuszMachowina/python-apps/tree/main/World%20of%20Tanks%20Stats%20Viewer)
 - 📑 [3 Python Scripts for PackOpenerF15](https://github.com/MateuszMachowina/python-apps/tree/main/Tools%20for%20PackOpenerF15)
   
+</details>
+
+---
+
+## 🤖 UiPath
+<details>
+  <summary><strong>📂 <a href="https://github.com/MateuszMachowina/ui-path">View UiPath Projects</a></strong></summary>
+
+- 📑 [Briefing Bot](https://github.com/MateuszMachowina/ui-path/tree/main/Briefing-Bot)
+- 📑 [Invoice OCR to Excel](https://github.com/MateuszMachowina/ui-path/tree/main/Invoice_OCR_to_Excel)
+
 </details>
 
 ---
