@@ -104,7 +104,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
   <summary><strong>📂 View HTML/JavaScript/CSS Projects</strong></summary>
   
 - 📑 [FIFA 15 Pack Opener](https://github.com/MateuszMachowina/PackOpenerF15)
-- 📑 [Personal Website for ICC Coach](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
+- 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [GoalTrckr](https://github.com/MateuszMachowina/GoalTrackr)
   
 </details>
