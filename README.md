@@ -4,18 +4,14 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 ---
 
-## ✨ Featured
-<details>
-  <summary><strong>📂 View Featured Projects</strong></summary>
+## ✨ Featured Projects
 
 - 📑 [FIFA 15 Pack Opener (Live)](https://github.com/MateuszMachowina/PackOpenerF15)
 - 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
 - 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
 - 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [The Great Sales Department Project - VBA, Power Automate, UiPath, Python](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
-- 📑 [Tableau Dashboards](https://github.com/MateuszMachowina/tableau/tree/main)
   
-</details>
 
 ---
 
