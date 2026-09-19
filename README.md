@@ -15,9 +15,19 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 ---
 
-## 🐍 Python Apps
+## 🐍 Python Applications
 <details>
-  <summary><strong>📂 <a href="https://github.com/MateuszMachowina/python-apps">View Python Apps</a></strong></summary>
+  <summary><strong>📂 <a href="https://github.com/MateuszMachowina/python-apps">View Python Applications</a></strong></summary>
+
+- 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
+  
+</details>
+
+---
+
+## 🐍 Python Scripts
+<details>
+  <summary><strong>📂 <a href="https://github.com/MateuszMachowina/python-apps">View Python Scripts</a></strong></summary>
 
 - 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
 - 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
