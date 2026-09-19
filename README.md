@@ -6,20 +6,19 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 ## ✨ Featured Projects
 
+- 📑 [World of Tanks Assistant (Python API)](https://github.com/MateuszMachowina/WoT-Assistant)
 - 📑 [FIFA 15 Pack Opener (Live)](https://github.com/MateuszMachowina/PackOpenerF15)
-- 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
 - 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
 - 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [The Great Sales Department Project (VBA, Power Automate, UiPath, Python)](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
   
-
 ---
 
 ## 🐍 Python Applications
 <details>
-  <summary><strong>📂 <a href="https://github.com/MateuszMachowina/python-apps">View Python Applications</a></strong></summary>
+  <summary><strong>📂 View Python Applications</a></strong></summary>
 
-- 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
+- 📑 [World of Tanks Assistant v.2.0](https://github.com/MateuszMachowina/WoT-Assistant)
   
 </details>
 
@@ -29,12 +28,11 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 <details>
   <summary><strong>📂 <a href="https://github.com/MateuszMachowina/python-apps">View Python Scripts</a></strong></summary>
 
-- 📑 [World of Tanks Assistant Pro (Python API)](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
 - 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
 - 📑 [Excel Exchange Rates Converter](https://github.com/MateuszMachowina/python-apps/tree/main/Excel%20Exchange%20Rates%20Converter)
 - 📑 [FX Rates Checker](https://github.com/MateuszMachowina/python-apps/tree/main/FX%20Rates%20Checker)
-- 📑 [World of Tanks Assistant Pro](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
-- 📑 [World of Tanks Stats Viewer](https://github.com/MateuszMachowina/python-apps/tree/main/World%20of%20Tanks%20Stats%20Viewer)
+- 📑 [World of Tanks Assistant v.1.0](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
+- 📑 [World of Tanks Assistant v.0.5](https://github.com/MateuszMachowina/python-apps/tree/main/World%20of%20Tanks%20Stats%20Viewer)
 - 📑 [3 Python Scripts for PackOpenerF15](https://github.com/MateuszMachowina/python-apps/tree/main/Tools%20for%20PackOpenerF15)
 - 📑 [Instagram Local Scripts](https://github.com/MateuszMachowina/python-apps/tree/main/Instagram%20Scripts)
   
