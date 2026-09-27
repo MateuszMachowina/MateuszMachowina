@@ -8,6 +8,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 - 📑 [World of Tanks Assistant (Python API)](https://github.com/MateuszMachowina/WoT-Assistant)
 - 📑 [FIFA 15 Pack Opener (Live)](https://github.com/MateuszMachowina/PackOpenerF15)
+- 📑 [IG Studio 2026](https://github.com/MateuszMachowina/IG-Studio)
 - 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
 - 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [The Great Sales Department Project (VBA, Power Automate, UiPath, Python)](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
@@ -19,6 +20,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
   <summary><strong>📂 View Python Applications</a></strong></summary>
 
 - 📑 [World of Tanks Assistant v.2.0](https://github.com/MateuszMachowina/WoT-Assistant)
+- 📑 [IG Studio 2026](https://github.com/MateuszMachowina/IG-Studio)
   
 </details>
 
