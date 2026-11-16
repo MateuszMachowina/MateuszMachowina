@@ -8,7 +8,6 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 
 - 📑 [World of Tanks Assistant (Python API)](https://github.com/MateuszMachowina/WoT-Assistant)
 - 📑 [FIFA 15 UT Simulator (Live)](https://github.com/MateuszMachowina/F15_UT)
-- 📑 [FIFA 15 Pack Opener (Live)](https://github.com/MateuszMachowina/PackOpenerF15)
 - 📑 [IG Studio 2026](https://github.com/MateuszMachowina/IG-Studio)
 - 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
 - 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
