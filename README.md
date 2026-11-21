@@ -11,7 +11,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 - 📑 [IG Studio 2026](https://github.com/MateuszMachowina/IG-Studio)
 - 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
 - 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
-- 📑 [The Great Sales Department Project (VBA, Power Automate, UiPath, Python)](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
+- 📑 [Sales Department Project (VBA, Power Automate, UiPath, Python)](https://github.com/MateuszMachowina/vba-office-automation/tree/main/sales-department-project)
   
 ---
 
@@ -19,8 +19,9 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 <details>
   <summary><strong>📂 View Python Applications</a></strong></summary>
 
-- 📑 [World of Tanks Assistant v.2.0](https://github.com/MateuszMachowina/WoT-Assistant)
+- 📑 [World of Tanks Assistant (Python API)](https://github.com/MateuszMachowina/WoT-Assistant)
 - 📑 [IG Studio 2026](https://github.com/MateuszMachowina/IG-Studio)
+- 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
   
 </details>
 
@@ -30,7 +31,6 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 <details>
   <summary><strong>📂 <a href="https://github.com/MateuszMachowina/python-apps">View Python Scripts</a></strong></summary>
 
-- 📑 [HTML Dashboard Generator (Python)](https://github.com/MateuszMachowina/python-apps/tree/main/Dashboard%20Generator%20HTML)
 - 📑 [Excel Exchange Rates Converter](https://github.com/MateuszMachowina/python-apps/tree/main/Excel%20Exchange%20Rates%20Converter)
 - 📑 [FX Rates Checker](https://github.com/MateuszMachowina/python-apps/tree/main/FX%20Rates%20Checker)
 - 📑 [World of Tanks Assistant v.1.0](https://github.com/MateuszMachowina/python-apps/tree/main/WoT%20Assistant%20Pro)
@@ -114,7 +114,7 @@ Welcome! Here’s an overview of my repositories and projects, where I’ve appl
 <details>
   <summary><strong>📂 View HTML/JavaScript/CSS Projects</strong></summary>
   
-- 📑 [FIFA 15 Pack Opener](https://github.com/MateuszMachowina/PackOpenerF15)
+- 📑 [FIFA 15 UT Simulator (Live)](https://github.com/MateuszMachowina/F15_UT) 
 - 📑 [Personal Website for ICC Coach (Live)](https://github.com/MateuszMachowina/AdamMachowinaCoaching)
 - 📑 [GoalTrckr](https://github.com/MateuszMachowina/GoalTrackr)
   
